@@ -4,8 +4,7 @@ from tkinter import *
 from tkinter import font
 from tkinter import ttk
  
-# 引入chat.py
- 
+# 設定要連接的server資訊
 PORT = 5000
 SERVER = "172.25.240.1"
 ADDRESS = (SERVER, PORT)
